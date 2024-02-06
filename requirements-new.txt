@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+flask
+openai
+openapi-schema-pydantic
+python-dateutil
+python-dotenv
+regex
+requests
+youtube-transcript-api

@@ -19,8 +19,8 @@ from langchain_core.runnables import RunnableParallel,RunnablePassthrough
 from operator import itemgetter
 from langchain_community.document_loaders import JSONLoader
 
-import os
-os.environ["OPENAI_API_KEY"] = "your_api_key"
+# import os
+# os.environ["OPENAI_API_KEY"] = "your_api_key"
 
 
 app = Flask(__name__)
