@@ -1,0 +1,124 @@
+You've all experienced the progress
+of artificial intelligence. Many of you may have spoken
+with a computer, and a computer understood you and spoke back to you. With the rate of progress
+being that it is, it's not difficult to imagine
+that at some point in the future, our intelligent computers will become
+as smart or smarter than people. And it's also not difficult to imagine
+that when that happens, the impact of such artificial intelligence is going to be truly, truly vast. And you may wonder: Is it going to be OK
+when technology is so impactful? And here my goal is to point out
+the existence of a force that many of you may have not noticed, that gives me hope that indeed, we will be happy with the result. So artificial intelligence. What is it, and how does it work? Well, it turns out
+that it's very easy to explain how artificial intelligence works. Just one sentence. Artificial intelligence
+is nothing but digital brains inside large computers. That's what artificial intelligence is. Every single interesting AI
+that you've seen is based on this idea. Over the decades, scientists and engineers
+have been figuring out how such digital brains should work and how to build them,
+how to engineer them. Now, I find it interesting that the seat of intelligence
+in human beings is our biological brain. It is fitting that the seat
+of intelligence in artificial intelligence is an artificial brain. Here, I'd like to take a digression
+and tell you about how I got into AI. There were three forces
+that pulled me into it. The first one was
+that when I was a little child, at around the age of five or six, I was very struck
+by my own conscious experience, by the fact that I am me
+and I am experiencing things. That when I look at things, I see them. Like, this feeling over time
+went away, though, by simply mentioning it to you
+right now it comes back. But this this feeling of ... That I am me, that you are you, I found it very strange
+and very disturbing almost. And so when I learned
+about artificial intelligence, I thought, wow,
+if we could build a computer that is intelligent, maybe we will learn
+something about ourselves, about our own consciousness. That was my first motivation
+that pulled me towards AI. The second motivation
+was more pedestrian in a way. I was simply curious
+about how intelligence works. And when I was a teenager,
+an early teenager in the late '90s, the sense that I got is that science
+simply did not know how intelligence worked. There was also a third reason, which is that it was clear to me back then that artificial intelligence, if it worked, it would be
+incredibly impactful. Now, it wasn't at all obvious that it will be possible to make
+progress in artificial intelligence, but if it were possible to make
+progress in artificial intelligence, that would be incredibly impactful. So these were the three reasons
+that pulled me towards AI. That's why I thought that's a great area
+to spend all my efforts on. So now let's come back
+to our artificial intelligence, the digital brains. Today, these digital brains are far less smart
+than our biological brains. When you speak to an AI chat bot, you very quickly see
+that it's not all there, that it's, you know, it understands mostly, sort of. But you can clearly see that there
+are so many things it cannot do and that there are some strange gaps. But this situation, I claim, is temporary. As researchers and engineers
+continue to work on AI, the day will come when the digital brains
+that live inside our computers will become as good and even better
+than our own biological brains. Computers will become smarter than us. We call such an AI an “AGI,”
+artificial general intelligence. When we can say that the level at which
+we can teach the AI to do anything that, for example, I can do,
+or someone else. So although AGI does not exist today, we can still gain
+a little bit of an insight into the impact of AGI once it's built. It is completely obvious that such an AGI
+will have a dramatic impact on every area of life,
+of human activity and society. And I want to go over a quick case study. This is a narrow example
+of a very, very broad technology. The example I want to present
+is health care. Many of you may have had the experience
+of trying to go to a doctor. You need to wait for many
+months sometimes, and then when you do get to see
+a doctor, you get a small, very limited amount of time
+with the doctor and furthermore, the doctor,
+being only human, can have only limited
+knowledge of all this, all the medical knowledge that exists. And then by the end of it,
+you get a very large bill. (Laughter) Well, if you have an intelligent computer,
+an AGI, that is built to be a doctor, it will have complete and exhaustive
+knowledge of all medical literature. It will have billions of hours
+of clinical experience, and it will be always available
+and extremely cheap. When this happens, we will look back at today's health care similarly to how we look
+at 16th century dentistry. (Laughter) You know, when they tied people
+with belts and then have this drill, that's how today's
+health care will look like. And again, to emphasize,
+this is just one example. This is just one example. AGI will have dramatic
+and incredible impact on every single area of human activity. But when you see impact this large,
+you may wonder, "Gosh, isn't this technology too impactful?" And indeed, for every positive
+application of AGI, there will be a negative
+application as well. This technology is also
+going to be different from technologies that we are used to, because it will have the ability
+to improve itself. It is possible to build an AGI that will work on the next
+generation of AGI. The closest analogue we have to this kind
+of rapid technological improvement is when the Industrial Revolution
+has taken place, where humans, the material condition of human society,
+was very, very constant. And then it was a rapid
+increase, rapid growth. With AGI, something like this could happen again,
+but on a shorter timescale. And then furthermore, there are concerns around if an AGI ever becomes
+very, very powerful, which is possible, maybe it will want to go rogue
+being that it is an agent. So this is a concern that exists
+with this unprecedented, not yet existing technology. And indeed, you look at all the positive
+potential of AGI and all the concerning
+possibilities of AGI as well, and you may say, "Gosh,
+where is this all headed?" One of my motivations
+in creating OpenAI was, in addition to developing this technology, was also to address the questions that are posed by AGI,
+the difficult questions, the concerns that we raised. In addition to working with governments and helping them understand
+what is coming and prepare for it, we are also doing a lot of research on addressing the technological
+side of things, so that the AI will never
+want to go rogue. And this is something which
+I’m working on as well. But I think, the thing to note, because AI and AGI is really
+the only area of the economy where there is a lot of excitement,
+a lot of investment, everyone is working on it, there's a huge number of labs in the world
+trying to build the same thing. Even if OpenAI takes these desirable
+steps that I mentioned, what about the rest of the companies
+and the rest of the world? And this is where I want
+to make my observation about the force that exists. The observation is this:
+consider the world one year ago, as recently as one year ago. People weren't really talking about AI,
+not in the same way at all. What happened? We all experienced what it's like to talk
+to a computer and to be understood. The idea that computers
+will become really intelligent and eventually more intelligent
+than us is becoming widespread. It used to be a niche idea
+that only a few enthusiasts and hobbyists and people
+who were very into AI were thinking about. But now everyone is thinking about it. And as the AI continues to make progress, as technology continues to advance, as more and more people see what AI can do and where it is headed towards, then it will become clear
+just how dramatic, incredible and ... almost fantastical AGI is going to be and how much trepidation is appropriate. And what I claim will happen
+is that people will start to act in unprecedentedly collaborative way
+out of their own self-interest. It's already happening right now. You see the leading AGI companies
+starting to collaborate for a specific example, through
+the Frontier Model Forum. And we will expect that companies
+that are competitors will share technical information
+to make their AIs safe. We may even see governments do this. For another example, at OpenAI, we really believed
+in how dramatic AGI is going to be. So one of the ideas
+that we were operating by, and it's been written
+on our website for five years now, that when technology gets such
+that we are very, very close to AGI, to computers smarter than humans, and if some other company
+is far ahead of us, then rather than compete with them, we will help them out,
+join them, in a sense. And why do that? Because we feel, we appreciate how incredibly dramatic
+AGI is going to be. And my claim is that with each
+generation of capability advancements, as AI gets better and as all of you experience
+what AI can do, as people who run AI efforts
+and AGI efforts and people who work on them
+will experience it as well, this will change the way
+we see AI and AGI, and that will change collective behavior. And this is an important reason why I'm hopeful that despite the great challenges
+that's posed by this technology, we will overcome them. Thank you. (Applause) 
