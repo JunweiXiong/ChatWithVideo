@@ -1,0 +1,481 @@
+Speaker 0:
+
+Cool. And, yeah, just the first question, is, I'm curious to know what I know that you are you actually search yourself, and I'm wondering what is your process of doing research in your work?
+
+Speaker 1:
+
+My process is I start a meeting. I record it on Zoom as well as Kinda how we're doing today, and then I usually go through I organize all my files by participant by date. I have video recording, and then I also transcribe the audio file, so I have it in text format as well to easily be able to review. And then from there, I usually add any Insights that I see either by relistening to the recording or by viewing the transcription, into A digital affinity map. Mhmm.
+
+And I I generally use Figma for that, and that's how I kind of am able to organize my findings and Put them into a report that I then deliver to stakeholders.
+
+Speaker 0:
+
+Okay. Got it. So, you said that you will use another software for transcribing. Right? Do you know what could you give us a example of what software that you use for transcribing?
+
+Speaker 1:
+
+Right now, I'm using Microsoft to transcribe. Something. You can do it easily with Word. It's not perfect, but it's feel a lot better than doing by hand. So
+
+Speaker 0:
+
+Mhmm. Yeah. Definitely. Got it. And, so after the transcribing, you will have the interviewer scripts in Microsoft Word, and then you will manually highlight those, to find a keep important things.
+
+Or how do you categorize those insights will find the insights.
+
+Speaker 1:
+
+Yeah. Sometimes I will highlight them if I wanna come back to it. But, generally, once I have the transcription and I go through and I Kinda clean up the file a little bit. I just kinda reread through it. And then the important points that I see, I copy into, like, an an affinity map that I I kind of created, like, a digital one in Figma where I have, like, individual Post its with text, and that's where I kinda copy everything, and I color code by each participant in a different color.
+
+So that way, I can see, The range of responses I'm getting, if I get a lot of people saying the same thing, I can kinda get a visual aid in seeing the range of people that are saying similar things.
+
+Speaker 0:
+
+Okay. I see. And, yeah, I know I was wondering what specific task or activity that during this user research analysis process that you found is most time consuming, more tedious to you.
+
+Speaker 1:
+
+I would say the transcribing is the most tedious Just because be because the software I use is very imperfect, there will be a lot of mistakes. It will It'll hear a word that's incorrect. I have to go through and make sure it doesn't say something really weird. Sometimes it says really weird things. For example, the research project I'm doing right now, you have to take a scan, but oftentimes, the transcription will Transcribe it as skin.
+
+And I'm like, no. We're not dealing with skin. We're doing a scan. So it's like just making sure that it's not completely Bizarre.
+
+Speaker 0:
+
+Yeah. Understandable. So how many percentage of, adjustment that you will usually need to make after the transcribe, just grabbing from the Microsoft. We're I will I
+
+Speaker 1:
+
+would say probably 20 to 30% depending on how Nitpicky I am that day. Some days, I'll I mean, there's a lot of grammatical things. Like, it'll put periods and question marks where they don't belong. But depending on how nitpicky I'm feeling that day, I might just leave them there because the gist of the of the text is still there. The punctuation is less important.
+
+It's more for my reference than anybody else's. So it doesn't need to be perfectly clean.
+
+Speaker 0:
+
+Got it. Got it. And, yeah. And besides that, is there any other time consuming task that you can think of?
+
+Speaker 1:
+
+I mean, the affinity mapping does take a little bit of time, but it doesn't feel as time consuming as the Pulling transcribing and pulling the findings is the most time consuming thing.
+
+Speaker 0:
+
+Got it. And for so for the pulling of findings, you mean, like, highlighting those things to find and copy and paste those sentences to the Figma.
+
+Speaker 1:
+
+Yeah. I would say so. Okay. Mostly because my tests are generally a little bit longer. Like, sometimes they run over an hour.
+
+I try to keep it Under that, but sometimes it's difficult, especially if there's technical difficulties, if the user is having a hard time with certain tasks, Or if they just have a lot to say on the subject, these are things out of my control as a researcher. So I've had tests go on over an hour, and I'm like,
+
+Speaker 0:
+
+Sorry. Yeah. I mean, I have a UX session myself, actually, and I totally feel the same way. Yeah. So, Like, sometimes we have, like, 10 interviews, and each interview have 40 to sometime last for until 1 hour.
+
+It's really long transcripts for us to read again and summarize all those insights. Exactly. Yeah. Just yeah. And you mentioned for the affinity mapping is one of the way that you will use it as a use it to present to the other teams.
+
+Right?
+
+Speaker 1:
+
+I I generally don't show them my affinity map. I generally put it together into a report. But, like, For time constraints, I have shown like, if I'm seeing for example, one of our biggest, I guess goals for the product that we're creating is bringing value and also, earning trust of users. So I remember Pulling those specific insights from my usability tests and showing my stakeholders, This is where people are finding the most value, and this is how we can earn their trust. So those are, like, very important factors, that I am identifying in my test.
+
+So I'll show them in my affinity map the varied responses that we're getting. Because I I can deliver a report and say people like, value is important, and this is what people are finding valuable. But sometimes it helps them to see, like, The variation in different responses between participants of different demographics.
+
+Speaker 0:
+
+Yeah. Definitely. Got it. So yeah. So, I I was also curious to know which software that you use to write the report?
+
+Speaker 1:
+
+Usually, Figma.
+
+Speaker 0:
+
+Figma. Oh, okay. Got it.
+
+Speaker 1:
+
+Yeah. If I'm if I'm trying to do something really quickly, I might use PowerPoint just because it's already set up, and I just input text. But, generally, I use Figma because it's a little more flexible.
+
+Speaker 0:
+
+Oh, okay. Got it. So you use Figma for, for the affinity mapping and also create a report using. Right? Okay.
+
+Mhmm. And, yeah, I'm also curious besides a Philippine mapping, is there any other way that for you to, visualize your insights. I mean, for example, the video clips is, does your company sometimes wants you to show the video clip added to the video clips of the interview interviewees, or just be fine?
+
+Speaker 1:
+
+I I upload all of the videos, so to our company wide server. So I will have Team members sometimes go and watch a video. If I if I tell them something about it and they're like, oh, that's interesting. I wanna go watch. Like, I will have sometimes, my stakeholders will sometimes go can watch recordings to get a little more information.
+
+But, generally, I just include screenshots and visuals that will help them understand the context, of what's going on for a specific insight.
+
+Speaker 0:
+
+Okay. Got it. And, that and you mentioned this, this is for user interview or for user testing or for both? For both. Like, this whole process?
+
+For both. Oh, okay. Got
+
+Speaker 1:
+
+it. Yeah. Because I I've done user tests. I've done interviews, but I've also done studies that kind of Take both into accounts, like half and half, half user testing, half interview.
+
+Speaker 0:
+
+Mhmm. Yeah. Totally understand. And, for the user interview, So I I I would imagine it. Is it, like, moderated user interview?
+
+Like, you will lead the inter you will lead the user testing where is unmoderated user testing. Like, you're just not users to finish all the task themselves. And then
+
+Speaker 1:
+
+I Generally do moderated. I haven't done any unmoderated yet. Although that is something that I've been looking into
+
+Speaker 0:
+
+Okay.
+
+Speaker 1:
+
+Just to get a a wider breadth of Feedback.
+
+Speaker 0:
+
+Yes. Okay. Got it. And, yes. And I'm also curious Yeah.
+
+Besides the mapping, do you also need to create personas sometimes to present your, findings or summarize your results?
+
+Speaker 1:
+
+I have, for discovery like, early discovery type projects. I have done some demographic research and created personas, but they're more proto personas than, actual personas, if that makes sense. It's all it's mostly based on research and assumptions, not based on our actual users.
+
+Speaker 0:
+
+Okay. Okay. Got it. And, yeah. And, also, besides, besides user interviews and testing, I was also curious to know, do you also involve in some survey analysis in your work as well?
+
+For example, for the open some open task questions in the survey, how do you usually analyze that?
+
+Speaker 1:
+
+We have a feedback survey that we've been sending, and we ask For numerical ratings, so that'll just give us a little bit of a very easy way to say, oh, we're getting an average low rating or average High rating or where can we, like and then they'll have open ended questions about where we can improve. But our our, Our outreach for surveys isn't super, super high, so we haven't really had to do any detailed analysis of that of that yet.
+
+Speaker 0:
+
+Okay. Okay. Got it. And, yeah, that was really helpful. And I wonder, for the collaboration process, do you like, how how do you usually collaborate with the with the other designers upon managers?
+
+And do they wait until you finish the whole research project and check-in with your progress, or they will, like, ask you during the process when you're doing the research?
+
+Speaker 1:
+
+A little bit of both. I'll generally show them my test plan and my script ahead of time, and I'll get feedback live during our our meetings, on how they kind of envision and what if their goals differ from my goals because I kinda have to work up based on what I know and the assumptions that I make, but sometimes there's additional information that I don't have. So that's helpful to have them Input their feedback in real time. And then I've also like, as our product has evolved, I've gotten, information from my stakeholders saying, oh, we'd really like for you to add a question about this or Things things of that nature. So I'm I'm able to be flexible and make changes accordingly, and It's fine.
+
+It's fine. I get a lot of, like we're very small team, so we're very much involved in every step of the process. So I actually enjoy having my stakeholders give me feedback, which I know for some researchers and designers, that's not so great. But because I feel part of the team and and very much involved in the process from start to finish, it's, like, More maybe it's more rewarding for me because of that. I don't know.
+
+Speaker 0:
+
+Got it. Yeah. That sounds like a very, close connected, collaboration relationship in your team. And I wonder so how like, when they give you feedback, is it normally in the meeting or, they they will just comment in the document or in Figma to give you the feedback.
+
+Speaker 1:
+
+I get both. I get a lot of a little bit of both. We use Box, And I'll usually upload my test plan and my script to Box. It's like our server network or our storage network. It's kinda like a Dropbox type of situation, but We're all in it.
+
+We all have access to it. So sometimes my design lead might give me comments, like, for small changes, like, oh, maybe add this here or something like that. But then oftentimes, if we if we have the time, we'll just discuss it over a Zoom call.
+
+Speaker 0:
+
+Okay. Cool. Got it. And the box that the software that you just mentioned, is it, like, software for you to store also for you to store all the previous documents that other team members can always track. Mhmm.
+
+Speaker 1:
+
+Yeah. Everything is there from previous research studies
+
+Speaker 0:
+
+Okay.
+
+Speaker 1:
+
+All aspects. It's it's We treat it as, like, a non like a server, but it's really just a storage, software. Yeah.
+
+Speaker 0:
+
+Got it. Yeah. So, according to what you just mentioned, you, in your team, you use Figma, you use Bob, so you use Microsoft Word. Is there any other software that you you get, your team will use?
+
+Speaker 1:
+
+Zoom. Zoom is a big one. Alright.
+
+Speaker 0:
+
+Okay. Yeah. Zoom. Right.
+
+Speaker 1:
+
+And then as far as online, do you wanna know about, like, online programs that we use as well? Because we have, like, Notion and Airtable.
+
+Speaker 0:
+
+Oh, yeah. So these are also used in within the product teams. Right? Notion and
+
+Speaker 1:
+
+And Airtable. Yeah.
+
+Speaker 0:
+
+L table. Okay. Mhmm. I'm very I'm I don't really know a lot about L table. Do you mind, tell me a little bit what is that useful.
+
+Speaker 1:
+
+Yeah. It's very similar to how we use Notion, but Notion, I think, is more for the engineers, and Airtable is more just for Product development. So we just input feedback. We input, things to be addressed In order to grow the product and improve it, things like that. And it kinda shows, like, a in progress.
+
+What's priority 0, priority 1, Which things need to be addressed immediately versus more is a nice to have.
+
+Speaker 0:
+
+Okay. Got it. Okay. Yeah. That's really, really helpful.
+
+And I think I have 1 a 2 field 2 last questions, and, that would be at the end. So another question is, I wonder in your team, who is usually responsible for making decision of buying this software or not? Oh, probably, the cofounders. Cofounders.
+
+Speaker 1:
+
+Okay. I I mean, the Zoom account, like, I use that on my personal and the Microsoft. I use that for my I use my personal for both of those, but a lot of our meetings are also held over Zoom. I'm not sure what the other Team members might use on their own personal side, but we we because we're a startup team, we don't have, like, designated except for, like, the things that we share information on, like, box and Airtable. Everything else is kinda like
+
+Speaker 0:
+
+in purse your Loose.
+
+Speaker 1:
+
+Yeah. Loosely loosely designated.
+
+Speaker 0:
+
+Yeah. Got it. Yeah. And, may I ask how many UX researchers in your team right now and also UX designers?
+
+Speaker 1:
+
+Why is this I'm the researcher, and then there is a design lead who's kind of my direct report. And I work with her also on some design projects because I we're we're a small team, so we kinda have to be all hands on deck a lot of the time, but it's fun. It's It's a great way to learn a lot, so it's awesome in that sense.
+
+Speaker 0:
+
+Yeah. Totally. Yeah. Because I was working a small company before, so, yeah, I I totally feel that. I'm also the one the only 1 you actually searching the team back then.
+
+Yeah. So yeah. Yeah. And, yeah, just at the end, I just wanna, briefly just talk about our idea and little bit and see how much that you're interested in this idea. So right now, our thinking is that we we want to simplify the process of manually tagging those interview scripts and, categorize those in those insights for you using this AI technology.
+
+So what we are imagine is after you upload your Zoom video to our website, you will, you will be, like, you can enter your research questions, and we can help you generate generate all those, inside with the evidence, with the quotes from the individual scripts. And you can choose different visualization way that, maybe you want affinity mapping, and then we will we'll pull out this affinity mapping and fit all those insights into those affinity mapping framework. And if you want just points or just text, we can also do that for you. Or some people, they want video clips. They want to show, like, added all those supported evidence into 1 video clip that we can also have that option for them.
+
+So, yeah, I I'm just curious to know how do you find this will be helpful for you in this in your research process? They can just be honest and, give any feedback that you can think of. Yeah.
+
+Speaker 1:
+
+Yeah. I mean, I actually, I saw another software that Someone was launching, that's kinda similar where it has the video. It pulls out the insights, and then You can also go through the script, the text, and highlight additional things that you think are interesting because, I I mean, AI does its best, but it doesn't have the human touch. Right?
+
+Speaker 0:
+
+Mhmm.
+
+Speaker 1:
+
+I'll tell you the name of it. It was called. I was just looking in it's called Envision, but it's spelled Yep. Are you familiar with it?
+
+Speaker 0:
+
+I haven't heard of it. Is it is this e n v I s
+
+Speaker 1:
+
+Yeah.
+
+Speaker 0:
+
+Iowan?
+
+Speaker 1:
+
+I copied the name into the chat for you. So maybe it would might be helpful to check it out since you're still in discovery.
+
+Speaker 0:
+
+Yeah. And
+
+Speaker 1:
+
+it It was nice. It was organized. It had the video. It had the transcription already ready to go, but I think that, that human element for me was still missing, so I still prefer to go through and do it myself maybe because I don't Trust the insights that it's pulling as much as I trust my own brain. But I did like that it would automatically once you uploaded the video, it automatically come Create the text file and highlight things, that it thought were important to the research That would be useful for the researcher and for the team to see.
+
+Speaker 0:
+
+Wow.
+
+Speaker 1:
+
+And I know there's, like, other one another one that somebody showed me, but I haven't used it yet. The problem is is a lot of these are paid accounts. They're not free, so I don't really Feel the need to spend the additional money. Yeah. Maybe if the team grows and we can add something like that to the company repertoire, that would Nice.
+
+But, yeah, I am trying to think of how, like I think having the affinity map feature would be nice as well just because Then you can you can map all the insights by theme and play around with it in your own because, like, maybe there's something a little bit that you're trying to identify that's not on the surface that you kinda have to look a little between the lines of what the speaker is or what the participant is saying. Maybe there is like, having the video is helpful because maybe what they're doing is also important. Like, for example, my research study, when you you take a body scan. So part of me part Part of the research study is just seeing how people interact with the scanning technology. And if they're able to, like There's a different there's a difference between people who may be more physically coordinated than not.
+
+So That's helpful for us as a as a team to identify where people are struggling and how we can make it easier and more user friendly. So it's like a like a new piece of technology. Like, a lot of people are really unaccustomed to having to, like, do the pose and The spin. It's it's a little some people, they get it right right away, and other people, they struggle a little bit. So it's interesting.
+
+Speaker 0:
+
+Yeah. So it is not sometimes, it's not all about the what you said. It's also about how they react, how they move, I mean, during the user interview. What's the, like Yeah.
+
+Speaker 1:
+
+Body language and Yeah. That sort of thing. Like, you can tell if somebody's getting frustrated even if they don't say it.
+
+Speaker 0:
+
+Yeah. Yeah. Definitely. So, yeah, I guess the human part is still very important, especially analyzing those qualitative data. So, and for the software that you just mentioned, Invesion, I think their idea is really, very similar to what we're trying to build.
+
+So, definitely, it probably would be a direct competitor for us, so I will check it out later.
+
+Speaker 1:
+
+Thanks for
+
+Speaker 0:
+
+take a time with that. Yeah. That was very helpful. We haven't noticed this software before, and, Yeah. Just trying to distinguish ourselves be, among all those others.
+
+So for years, because AI kind of, like, involved in every software right now. Every software you're trying to have this AI feature. So you're also thinking besides AI feature, what is our strength that could make us stand out than the others.
+
+Speaker 1:
+
+Yeah. Yeah. Absolutely. I think yeah. I would I would say being able to kind of map the insights Mhmm.
+
+Would be kind of a cool Wix. I don't remember if If they had that feature yet, I think they just had the video and transcribed and, like, highlighting the insights. And then you could you could, like, Go to a page where, say, you wanted to see they had, like, chips of what insights they identified or what insights, like, you could add Themes. So you can select that theme, and then all of the things that were tagged with that theme would come up. But it's still very much like a A wall of text, not very visual.
+
+So I think Okay. Yeah.
+
+Speaker 0:
+
+I think Yeah. Like, oh, yeah. Yeah.
+
+Speaker 1:
+
+I think depending on the person, research design, some people may prefer having text and be more analytical. But I think from a design perspective, having those visual, elements is important.
+
+Speaker 0:
+
+Yeah. Okay. Cool. Yeah. That is probably the things that we could do I focus on the visual arts part?
+
+Yeah. Thanks so much. And, I was curious, like, how long do you you should spend on those, like, tagging and analyzing those interview, in general. I mean, the, the whole part, the whole research part, not only just 1 interview, the whole the whole interview part.
+
+Speaker 1:
+
+Oh, I couldn't even tell you, to be honest. Because I could spend a couple of hours just on 1 participant depending on Mhmm. If I'm if I'm on a tight deadline, I might just skim through and, like, Physically write down the things that I think are Okay. Most important. Like, if it's, like, a major usability error, I may just write it in a notebook And then put together a quick report saying, like, oh, these are things we need to address right away.
+
+But the study I'm doing now, I've been doing for, like, 2 months now. So it's gotten because we're we're continuously iterating on a project as we continue testing. So I have been more focused on testing than I have been on pulling my findings, so I'm actually a little bit behind on My documentation?
+
+Speaker 0:
+
+Yeah. Got it. Yeah. So I totally understand. So, also, I'm I'm just wondering.
+
+Yeah. Sorry. I just lost my question. Yeah. For for the let me think.
+
+Yeah. Sorry. I was about I have a question just about I just totally forgot that.
+
+Speaker 1:
+
+That's okay. Yeah.
+
+Speaker 0:
+
+I think that's all the questions, I guess. If I have if I remind them of my question, I probably will send a message to you in Slack. Yeah. I'm sorry that I my brain was hang up.
+
+Speaker 1:
+
+That's okay. It happens. I'm happy to answer any additional questions. And if you guys Still, if you need testers in future to, like, try prototype, I'm totally open to that. Please please feel free to reach out.
+
+Speaker 0:
+
+Yeah. That'd be so nice. And if you know anyone who also who is also, one of the who also work in industry as a UX researcher or product or product managers and they're interested in doing this user interview, feel free to introduce them to me. Yeah. We are really we really need a lot more participants right now.
+
+Speaker 1:
+
+So Yeah. Thanks. Well, I know you posted in, what Slack channel did you post in?
+
+Speaker 0:
+
+Oh, I posted the personal project help, I think.
+
+Speaker 1:
+
+And was it in tech was it in Tech Fleet?
+
+Speaker 0:
+
+Yeah. Tap freeze. Tap freeze.
+
+Speaker 1:
+
+Okay. There's also another there's a couple other Slack networks that I'm a part of, one of them is called Hexagon. Are you familiar with it?
+
+Speaker 0:
+
+No. How, do you know how can I join this channel? Types of I
+
+Speaker 1:
+
+can try to invite you to it, actually. I might be able to invite you. I'll see what I can do.
+
+Speaker 0:
+
+Okay. Yeah. Because so is this also like a community for the product teams?
+
+Speaker 1:
+
+Yes. And I've I've found I've used it to find participants for my own research study as well. So it's there's researchers on there. And if you say, like, this is specifically to UX research, I think there are people in fact, I think I might know somebody who'd be interested. I'll reach out to her and see.
+
+Speaker 0:
+
+Oh, that'd be awesome. Yeah. Thanks so much. Yeah. Just let me know or send send me a message on Slack if she would be down for interview.
+
+Yeah. And you you just remind me of the question that I was I tend to ask. Oh, yeah. Yeah. I was trying to ask you for the recruiting part.
+
+So you mentioned that you use this, channel Slack channel to recruit participants. What are the other channels do you use to recruit? Do you find a
+
+Speaker 1:
+
+challenge Recruiting can be tough. Yeah. It's a full time job. Sometimes helping other people with their tests, I can get recruiter, I can recruit participants that way. I also just post I post on Tech Fleet.
+
+I post on Hexagon, and I post on my student, Slack channel, which I don't know if I'd unless you were a student, I don't know how you'd be able to get into that one, unfortunately. And those are my main avenues and then my personal network, of course. Like, I had an old a coworker that recently I learned that She was having a hard time finding genes, and I'm like, oh, you'd be a perfect participant for my test. And she's like, yeah. Let's do it.
+
+Speaker 0:
+
+Got it. And, so do those usually come with the incentives where it's usually free of, like, voluntary part is
+
+Speaker 1:
+
+It's usually voluntary. I do try to offer people something in return. Like, I had a girl who just asked me to give her feedback on her portfolio, and I was like, absolutely. Sometimes, you know, my friends, I'm like, I owe you a cup of coffee, and they're like, no. Don't worry about it.
+
+Because they're my friends, and I'll just do it because it's fine. And then as far as, like, from the student network, usually, if they're Doing usability tests or their students and they want advice on like, I have a call later today with someone who's interested in learning more about UX research, And I might just say, hey. You're would you Like, I might I'll probably ask you too. Like, I ask people if they'll participate in my test, and sometimes they do, and sometimes they can't, and that's fine. It's just a way to, like, help help everybody and also, hopefully you know, we all help each other.
+
+Right? Because we're all Research.
+
+Speaker 0:
+
+Yeah. Definitely. Yeah. If you need, like, any testing that you need participant, I'm also willing to join. Yeah.
+
+I'm really thankful that you your your insights today, I think it's really helpful. And you mentioned several soft softwares that I definitely need to check it out later. So Yeah.
+
+Speaker 1:
+
+Yeah. Yeah. I'm I'm happy to help. And, yeah, I'll send you some in information about my test if you would like to participate or it's up to you. It's not required, obviously, because I'm happy to help regardless, but I appreciate the the offer.
+
+Speaker 0:
+
+Yeah. I would love to. And, I think that would be the end of all the questions we have at the end of this interview. So thanks again, and, I'm really enjoy chatting with you, and I will keep you updated of our progress in this project.
+
+Speaker 1:
+
+Yes. Please do. I'm excited to see what you guys come up with.
+
+Speaker 0:
+
+Yeah. Excited. And, then have a great day then.
+
+Speaker 1:
+
+Thank you. You too. Bye, Catherine.
+
+Speaker 0:
+
+Thank you.
