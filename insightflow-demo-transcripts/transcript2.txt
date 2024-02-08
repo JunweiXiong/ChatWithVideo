@@ -1,0 +1,476 @@
+Yeah. So yeah, I just finished my introduction. So do you want to briefly introduce yourself and also your role work as a UX designer before? Because I think I'm mostly interested in your experience working at startup so maybe you can tell a bit of yourself and your experience.
+
+
+Speaker B ............... 00:00:26
+
+Okay. So I'm Zuli and currently I work as a part time designer product designer in a startup. And the startup, the products is building a platform. It's basically a dating app and the market is mostly in Asia. And before I graduate from college I also work in two startup and one is not a startup but the tech team is a new, really new team. So I'm the only one designer. And before that I also worked in another startup that their product was building a platform for parents to find offline events for their kids and their kids are their ages are mostly around like five to twelve.
+
+
+Speaker B ............... 00:01:21
+
+So it's pretty young kids and we built that platform and I was also product design intern at the time and there was another product design lead and only three of us, another one is the UX researcher. So three of us worked in that startup but unfortunately while I was interning the startup just they closed at the time. But in that one I think for that it was my first experience as a product design intern in the whole industry and I did a lot of research in that intern so I can share more because currently in my current startup it's very new and we didn't had a lot of resource so now we're mostly doing the branding stuff. So I didn't do research in this company so I can share more for my first one.
+
+
+Speaker A ............... 00:02:26
+
+Got it? Yes. So you said you intern at three companies as designers, right?
+
+
+Speaker B ............... 00:02:38
+
+Internal part time. Yes.
+
+
+Speaker A ............... 00:02:40
+
+Yeah. Right. So what is the company size for those three company and for the company that you conduct research especially like what is the company size for that?
+
+
+Speaker B ............... 00:02:55
+
+For the first one, the one that I did a lot of research, the company size, let me think about ten or so including. Yeah, the company size is very small and around about ten people including CEO and consult. Okay. Yes.
+
+
+Speaker A ............... 00:03:24
+
+And for this company you don't do research, right?
+
+
+Speaker B ............... 00:03:27
+
+I did research.
+
+
+Speaker A ............... 00:03:28
+
+Oh you did research. That is the one. You said you did a lot of research.
+
+
+Speaker B ............... 00:03:32
+
+Yeah, the company called Uclass.
+
+
+Speaker A ............... 00:03:35
+
+Okay. And although there's also UX researchers, but as designer, you also did, right?
+
+
+Speaker B ............... 00:03:44
+
+Yes.
+
+
+Speaker A ............... 00:03:47
+
+Okay. So we can focus on I guess this experience.
+
+
+Speaker B ............... 00:03:51
+
+Yes, I think this is better.
+
+
+Speaker A ............... 00:03:53
+
+Okay, so maybe we can talk about this one. I'm curious as a designer, what is your process of doing user interview or also analyzing user interview conducted that?
+
+
+Speaker B ............... 00:04:16
+
+Yes, let me think so I remember at the time we collaborate with a product manager before doing the interview we had a lot of discussion, mostly mapping out the business problem and what is the user problem as well. So all of those are based on their experience or what CEO realized and a lot of assumption. So we just collect a lot of idea or thoughts before we conduct the interview. And we map out some area that we want to learn more from users. And then we start to design and discuss what will be the user research goal. And also we design the interview online together. And then after that we invited a lot of our existing users from our platform at the time and a lot of them, they are really willing to participate in interview and we met them in person.
+
+
+Speaker B ............... 00:05:22
+
+So I remember that it's only two weeks. We met about twelve parents either in their house or in the coffee shop and we met them and then talk about our stuff. And there always will be two people interview at the same time. So one person mostly asks the question and then another one take the notes and we have a lot of data and we also record the voice. So we analyze the data afterwards, after our interview.
+
+
+Speaker A ............... 00:06:01
+
+How do you analyze the data?
+
+
+Speaker B ............... 00:06:05
+
+I remember at a time because at the time we are super new and then we didn't quite know what is user research but we will share what we realized the most stunning insights after the interview. And then mostly three of us, PN, me and another UX researcher. He is also an intern. So two intern and one PN. And then we will quickly discuss what we heard and are very cool, surprising or stunning. And then we will record that very quickly on our notes. And afterwards we will listen to that together again.
+
+
+Speaker B ............... 00:06:47
+
+And while we are listening we will jot down the keywords or highlights on the sticky notes and then we clutter the sticky notes together and mostly the PN at a time he will give them a title or a summarize for different groups. So that's how we did it.
+
+
+Speaker A ............... 00:07:07
+
+Got it. So let's say when are you conducting this user interview and analyzing the user interview? Do you find any process that is time consuming or it's tedious for you?
+
+
+Speaker B ............... 00:07:24
+
+I think the most time consuming is because we conduct the interview and then we need to listen to it again and then during the whole maybe one or 2 hours and then we need to do that again and then jot down all the things that we have already heard but we forgot and I think that is very long process. And after that sometimes because we jot down notes individually so we need to explain what we jot down. If the other person don't understand, listen it again. And I feel there are so many we listen. I'm not sure if it's needed, but sometimes I feel if you listen to the record multiple times, sometimes there's other thoughts who will pop up. Maybe it's important, but I don't know. But I just feel we do a lot of things multiple times.
+
+
+Speaker B ............... 00:08:19
+
+And after we jot down the notes, and then the PM needed to because we kind of too junior and then we are unable to give the summarize or title to each clutter and the PN spent a lot of time give them the title himself. And then during the time, remember that we wait by side and we just look at him for multiple hours and. Yeah, I think it's the part.
+
+
+Speaker A ............... 00:08:54
+
+Yeah, that totally makes sense. Yeah. I think you need to rewatch the video and you need to jot down the nodes. And the PM also need to spend time for the affinity mapping the cluster name. Yeah, it definitely takes a lot of time. Do you think rewatching the video is useful or needed.
+
+
+Speaker B ............... 00:09:30
+
+Or what is the.
+
+
+Speaker A ............... 00:09:32
+
+Purpose for you watching the video?
+
+
+Speaker B ............... 00:09:35
+
+Yes. So I think because while we were interviewing, we're trying to respect the interviewee and we want to look at the person, and then even there's a person, we'll jot down notes, but it's very quick and we kind of worry that we miss something. So even we have a discussion afterward, we still want to revisit all the things and then think about it and then let the interviewer to jot down his notes or her notes again, we're trying to capture all the things. So that is the purpose of why we would watch.
+
+
+Speaker A ............... 00:10:15
+
+Try to capture all the things. I remember you mentioned. You think when you revisit the video, you can sometimes learn something more.
+
+
+Speaker B ............... 00:10:26
+
+Yes.
+
+
+Speaker A ............... 00:10:27
+
+Right. I can elaborate on that.
+
+
+Speaker B ............... 00:10:31
+
+Yeah. So why I say this was sometimes I'm the interviewer, and then while I'm asking question, and then I try to focus a lot on the interview outline and asking a question, and then listen to the person and then give them the reaction. So sometimes while they say something, I feel all this so cool that I want to shut down, but I can't. Sometimes I will forgot where the information is kind of too quick to absorb. And I. Sometimes I miss something. So while I rewatch the video where we watch it together, I was able to catch up something back that I missed.
+
+
+Speaker A ............... 00:11:15
+
+Yeah, that makes sense. So when you conduct interview or record the interview, do you use any tools.
+
+
+Speaker B ............... 00:11:26
+
+At the time we are so very basic. We just use our phone and sometimes we even didn't record a video. We only record audio, but we release again. And I remember at the time we use a tool called something I forgot. But basically the function, very simple, it just create a mind map very easily, like a tree type of mind map. So we will have a person's name in the middle and then what is the inside and then we kind of drop there. So we will become a map of belong to that interview.
+
+
+Speaker A ............... 00:12:08
+
+Is that like AI generated or you need to do the by yourself?
+
+
+Speaker B ............... 00:12:14
+
+By ourselves? I think at the time we didn't know what is AI?
+
+
+Speaker A ............... 00:12:20
+
+When was the internship?
+
+
+Speaker B ............... 00:12:22
+
+The internship was so many years ago. About five years ago. Yeah. Long time ago.
+
+
+Speaker A ............... 00:12:34
+
+Yeah, that's a long time ago. But I think creating a mind map is such a good strategy though. Do you do that when you relisten to the interview or right after you interview with them, just from your mind?
+
+
+Speaker B ............... 00:12:56
+
+That was while we are relistening.
+
+
+Speaker A ............... 00:12:58
+
+Oh, relistening. Okay.
+
+
+Speaker B ............... 00:13:00
+
+Yeah. So sometimes we will use sticky notes. Sometimes if we have computer by us, we will do the mind map. But I think the sticky notes is better sometimes because we can move it or cloud it easily. But for the mind map, if you want to drag it or something, the structure will be break and it's kind of hard to organize it. So sometimes we will do the sticky notes and then organize all the insights into the mind map later. But I think the process is kind of flexible to us.
+
+
+Speaker A ............... 00:13:34
+
+So sometimes we just bounce back. Yeah, definitely. After you conduct and analyze this interview, do you need to present to your stakeholders as a designer at the time.
+
+
+Speaker B ............... 00:13:51
+
+Mostly was the PN to present. I think it's also a small present. So me as a product design intern and the UX research intern, both of us kind of present simply and casually to the product manager. And he also will discuss with us because sometimes he can participate the interview and sometimes he can. So we kind of present to him and then we discuss. So it's kind of like a casual sharing and then he will present to our boss at the time.
+
+
+Speaker A ............... 00:14:33
+
+And when he presents, did he use any visualization to make it look better or more clear?
+
+
+Speaker B ............... 00:14:44
+
+Yes. So he will create a very simple slide deck and then he will make each of our points into a very simple and then catching way. Clear way. I think it's mostly like how we design the presentation and sometimes he will put the user's picture if the person feel comfortable to let our CEO know that, oh, this is from some quotes which sometimes he will put the quotes and then to let him know that, oh, this is really important to the person and then this is the real insights. It's not from us, it's from our user. I think the rejoice is kind of important while he was presenting.
+
+
+Speaker A ............... 00:15:31
+
+So he said he used simple points. It's more like bullet points. Right?
+
+
+Speaker B ............... 00:15:42
+
+That's similar. Yeah.
+
+
+Speaker A ............... 00:15:44
+
+And then user picture with their codes. Is that all? Or did he also use something like the affinity mapping or the cluster you guys did?
+
+
+Speaker B ............... 00:16:04
+
+He didn't put. I forgot. But what he showed it to us is the very simple summarized slide. And I don't think he puts those clutter because everything is so quick. And then I think for putting a clutter picture or something, those detail, he think our boss won't care about that. He just want to know the results. So I think the slide is so simple.
+
+
+Speaker A ............... 00:16:38
+
+Yeah, got it. And yeah, I guess that is all the questions for this current company that you worked, that company you worked with your other companies as designer, have you ever also conducted research?
+
+
+Speaker B ............... 00:17:01
+
+Yes, for other company. Mostly I conduct research in bigger company. I'm not sure if it's helpful for you, but my first official job, our design team is very small, but it's a big company, so I don't know if it's helpful for you. But at the time we also conduct survey and also user interview. And the survey, we also use some tool called Surveymonkey because it will summarize for you, they will give you the flow charts or give you the trend of how this survey was. And we also conduct interview, but the interview at the time, we have another professional user researcher. So he will summarize all the things and then create a deck to share, also quotes and some insights to the whole company.
+
+
+Speaker B ............... 00:17:58
+
+So I didn't do much, but I did interview, but let him to analyze. And I remember there's a tool called user testing.
+
+
+Speaker A ............... 00:18:09
+
+Yeah.
+
+
+Speaker B ............... 00:18:11
+
+User test. Yeah, we use that and I thought that is so helpful. So it will give you some highlights on the timeline. And then I think that might be AI help. Like technology. Yes. And then in my internship this summer, it's also a bigger company, but we use another tool called Doverto.
+
+
+Speaker B ............... 00:18:34
+
+Have you heard of it?
+
+
+Speaker A ............... 00:18:35
+
+Yeah, I heard.
+
+
+Speaker B ............... 00:18:36
+
+Oh, yes. So that is kind of also help us save a lot of time to summarize the primary research sites. And for my current company, we haven't do user research. We only look at data only.
+
+
+Speaker A ............... 00:18:51
+
+Okay, so for the company that you did you use survey monkey, do you know how big around the size about two to 300. Okay, how about the company that use dovetail?
+
+
+Speaker B ............... 00:19:16
+
+Use dovetail? Yeah, it's multiple thousand, I forgot like thousands of people.
+
+
+Speaker A ............... 00:19:24
+
+So it's like a large company. Okay. And even in the large company as a designer you still conduct user interview?
+
+
+Speaker B ............... 00:19:33
+
+Yes.
+
+
+Speaker A ............... 00:19:35
+
+I'm curious because I'm a UX researcher and I feel like in my current company most interviews are conducted by Rex researchers. So why do you think sometimes UX designers also need to conduct interviews?
+
+
+Speaker B ............... 00:19:51
+
+Yeah, I think this is a really good question. I also have the similar question while I was interning this summer. So our design team script structure is kind of special. Our team, we have multiple product designer and also two ux researcher but they are mostly helping product designer to do the research and then they only do the research that directly impact the business stuff. So it's not a feature research. They do like higher level research and then the features kind of a research product designer needed to do that and we will let them review our interview outline or our interview design by the US researcher. But we conduct the interview and I think it's quite good to me because I'm the one that going to design a feature and I will have some question that I want to know, I want to confirm with our user and then while I'm doing the interview I can dig down and I can ask the question I want to know and sometimes PM will also participate interview.
+
+
+Speaker B ............... 00:21:05
+
+So it's kind of who designed this feature and the team will kind of participate that to directly know the insights from the users and also it's pro designer me, I need to synthesize and come out with the summary and share with the whole team and come out with the feature together. So it's mostly product designers do that.
+
+
+Speaker A ............... 00:21:31
+
+Yeah, I think that's great. So when you connect the interview, is it before you design the feature or after you design the feature?
+
+
+Speaker B ............... 00:21:42
+
+Before.
+
+
+Speaker A ............... 00:21:43
+
+So it's more like understanding their needs and their pain points that interview. Okay. And is it within the very large company? Okay, so you use dovetail as well?
+
+
+Speaker B ............... 00:22:03
+
+Yes.
+
+
+Speaker A ............... 00:22:04
+
+Okay, so when you use dovetail, do you find it useful? Do you find any pain points that you don't like?
+
+
+Speaker B ............... 00:22:18
+
+I feel that I think there are two part. The part I like the most is you upload your video or something and then it will transcript all the things for you and you can easily highlight some parts and give them the tag or summary. Quick summary. So I think the flow of this is easy for me because previously I needed to use Google sheets and I needed to color code on my own hand and that tool is helping me and I think the UX is cool but I think maybe I needed to have more sop for using that or have more rule because I can add a lot of tag and the tag is everyone can add a tag. So there will be so many repetitive tags with the same and it's not really helpful and make me feel the tool is so complicated and I even feel it's too complicated that will use more of my time and sometimes I will even want to just use fig gem or something. I think also the good part is because it's kind of a data depository so sometimes I can search keywords and I can watch other features interview but it's kind of related to my project so I can learn more based on previous interview from other project designer. So I think the history is very helpful.
+
+
+Speaker B ............... 00:24:06
+
+Also there's an area that I really like, fiction. It will make all of your transcript into a section if you highlight them. So you can clutter those scripts without typing it down on yourself. I think that also save a lot of my time and I think it also has some AI summary stuff.
+
+
+Speaker A ............... 00:24:27
+
+Have you used that?
+
+
+Speaker B ............... 00:24:29
+
+Yeah, I use that but I'm a worry.
+
+
+Speaker A ............... 00:24:34
+
+Worry.
+
+
+Speaker B ............... 00:24:38
+
+Maybe it's because AI just start really quick and I haven't trusted. So I will worry that it will miss some insights that maybe the computer can't understand. So I will still review all the thing and then trying to figure out if there's something the AI summary miss. But I think it's a good start that I will still copy them and then make them into some bigger category. But I will still do all the thing again and then trying to see if there's something missing. So I think that is not really saving my time, but I don't know. We'll do better in the future.
+
+
+Speaker B ............... 00:25:14
+
+Maybe they should ask us does this cover all the insights you want to find or something to trying to improve? I don't know.
+
+
+Speaker A ............... 00:25:21
+
+Yeah, I think you mentioned a really good point that we want to tackle. It's like we want to just design something that make it really AI user friendly, like make users to trust the software. So you just said maybe it could be better if it will ask the user to confirm if the insights is enough.
+
+
+Speaker B ............... 00:25:47
+
+Yeah. To trying to build a feedback loop or something.
+
+
+Speaker A ............... 00:25:53
+
+Yeah, I saw the same thing because I think now the AI generated thing is just directly give you a summary but you cannot double check or you cannot find evidence for that. Sure.
+
+
+Speaker B ............... 00:26:12
+
+Can you find what is the evidence?
+
+
+Speaker A ............... 00:26:16
+
+You mentioned the evidence for the summary.
+
+
+Speaker B ............... 00:26:23
+
+Yes, it just gives you all like some folded point, but you don't know which one has come from where. You can't even sort back or sort. You can sort back and some of the, maybe some scripts. You think it is so important, but you don't know if it's included in each of the insight they provide.
+
+
+Speaker A ............... 00:26:47
+
+Yeah. Do you think it will be useful if it asks you to compare your own insights with the AI generated insights? Yeah. And then maybe you can add your own insights after the AI insights or you can edit the AI insights.
+
+
+Speaker B ............... 00:27:14
+
+Yeah, I think that will be helpful. I think can edit, it can be helpful and I think if the edits can be included in help the platform to improve their way. To summarize, I think that would be super helpful, but I think the platform should let the designer or researcher know about they are improving or what they miss or what they miss, not just give you all the thing and then you still need to check.
+
+
+Speaker A ............... 00:27:53
+
+Do you think it's better if you have individual bullet points and each point can be linked back? If you click on the bullet point, it can link back to video and it can replay?
+
+
+Speaker B ............... 00:28:04
+
+Yeah, I think it will be super cool if they give you essay for one bullet point and I can click that to see how this AI to come up with this, from which script, which video, which section. I think it will make me feel more less worried because I can know if it missed anything or where did it come. Yeah.
+
+
+Speaker A ............... 00:28:27
+
+All right. That's all I want to ask and it's super helpful. Thank you. Thank you so much. Do you have any questions for me or. No.
+
+
+Speaker B ............... 00:28:44
+
+I'm curious, does the platform mostly focus on the primary research?
+
+
+Speaker A ............... 00:28:48
+
+Right, the platform, yeah, we most want to focus on the primary research like the interview of user interview, like one on one interview. Like why they want to do something, what's their attitude towards something, what's their pain point? But we are not aiming for the usability testing.
+
+
+Speaker B ............... 00:29:17
+
+Okay.
+
+
+Speaker A ............... 00:29:22
+
+Yeah. You don't have any questions?
+
+
+Speaker B ............... 00:29:24
+
+Yes, I don't have any other questions.
+
+
+Speaker A ............... 00:29:26
+
+Thank you. So helpful.
+
+
+Speaker B ............... 00:29:28
+
+I hope it's helpful.
+
+
+Speaker A ............... 00:29:30
+
+Really helpful. Yeah. Okay, I'll stop the recording.
